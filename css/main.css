@@ -65,20 +65,25 @@ footer {
 
   #column-1 {
     background-color: #f59978;
+    width: 50%;
   }
 
   #column-2 {
     background-color: #6495ED;
+   width: 50%;
   }
 
   #column-3 {
     background-color: #8FBC8F;
+   width: 100%;
   }
 
   footer {
     background-color: #FFF0F5;
+    
   }
   
+
 }
 
 
@@ -90,14 +95,17 @@ footer {
 
   #column-1 {
     background-color: #c66b4a;
+    width: 33.3%;
   }
 
   #column-2 {
     background-color: #244481;
+    width: 33.3%;
   }
 
   #column-3 {
     background-color: #639863;
+    width: 33.3%;
   }
 
   footer {
